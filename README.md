@@ -1,4 +1,6 @@
-# agman
+[![DOI](https://zenodo.org/badge/199330561.svg)](https://zenodo.org/badge/latestdoi/199330561)
+
+# Richman et al. *Cell Systems* 2019
 Analysis to generate figures in the AG paper.
 
 # See also
